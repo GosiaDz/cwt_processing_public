@@ -1,5 +1,9 @@
 # Online Double Peak Generator (Streamlit)
+## 🌐 Online Double Peak Generator
 
+Generate and download synthetic overlapping peak datasets directly in your browser. No installation required.
+
+**[CLICK HERE TO OPEN THE GENERATOR](https://double-peak-generator-test.streamlit.app/)**
 ## Purpose
 
 `app.py` is the interactive browser interface for **the identical** `SyntheticPeakDataset` used by Transformer training. It has no independent mathematical peak sampler. The lightweight `bridge.py` only formats and exports the dataset. `wavelet_preview.py` provides visualization-only filters adapted from the previous application's preview controls.
