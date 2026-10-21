@@ -1,4 +1,9 @@
 # CWT processing — public research code
+## 🌐 Online Double Peak Generator
+
+Generate and download synthetic overlapping peak datasets directly in your browser. No installation required.
+
+**[CLICK HERE TO OPEN THE GENERATOR](https://double-peak-generator-test.streamlit.app/)**
 
 **Overlapping synthetic peaks · shared centered generator · multi-wavelet Transformer**
 
