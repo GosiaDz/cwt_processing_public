@@ -1,0 +1,1 @@
+"""Publication web frontend."""
